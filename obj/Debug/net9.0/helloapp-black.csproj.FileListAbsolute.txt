@@ -1,0 +1,15 @@
+C:\Users\chupapi\git-actually\helloapp-white\bin\Debug\net9.0\helloapp-black.exe
+C:\Users\chupapi\git-actually\helloapp-white\bin\Debug\net9.0\helloapp-black.deps.json
+C:\Users\chupapi\git-actually\helloapp-white\bin\Debug\net9.0\helloapp-black.runtimeconfig.json
+C:\Users\chupapi\git-actually\helloapp-white\bin\Debug\net9.0\helloapp-black.dll
+C:\Users\chupapi\git-actually\helloapp-white\bin\Debug\net9.0\helloapp-black.pdb
+C:\Users\chupapi\git-actually\helloapp-white\obj\Debug\net9.0\helloapp-black.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chupapi\git-actually\helloapp-white\obj\Debug\net9.0\helloapp-black.AssemblyInfoInputs.cache
+C:\Users\chupapi\git-actually\helloapp-white\obj\Debug\net9.0\helloapp-black.AssemblyInfo.cs
+C:\Users\chupapi\git-actually\helloapp-white\obj\Debug\net9.0\helloapp-black.csproj.CoreCompileInputs.cache
+C:\Users\chupapi\git-actually\helloapp-white\obj\Debug\net9.0\helloapp-black.sourcelink.json
+C:\Users\chupapi\git-actually\helloapp-white\obj\Debug\net9.0\helloapp-black.dll
+C:\Users\chupapi\git-actually\helloapp-white\obj\Debug\net9.0\refint\helloapp-black.dll
+C:\Users\chupapi\git-actually\helloapp-white\obj\Debug\net9.0\helloapp-black.pdb
+C:\Users\chupapi\git-actually\helloapp-white\obj\Debug\net9.0\helloapp-black.genruntimeconfig.cache
+C:\Users\chupapi\git-actually\helloapp-white\obj\Debug\net9.0\ref\helloapp-black.dll

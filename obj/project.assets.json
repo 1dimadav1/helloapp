@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chupapi\\git-actually\\helloapp-black\\helloapp-black.csproj",
+      "projectUniqueName": "C:\\Users\\chupapi\\git-actually\\helloapp-white\\helloapp-black.csproj",
       "projectName": "helloapp-black",
-      "projectPath": "C:\\Users\\chupapi\\git-actually\\helloapp-black\\helloapp-black.csproj",
+      "projectPath": "C:\\Users\\chupapi\\git-actually\\helloapp-white\\helloapp-black.csproj",
       "packagesPath": "C:\\Users\\chupapi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chupapi\\git-actually\\helloapp-black\\obj\\",
+      "outputPath": "C:\\Users\\chupapi\\git-actually\\helloapp-white\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
